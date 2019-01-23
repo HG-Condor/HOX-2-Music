@@ -1,6 +1,0 @@
-token=NTI0Nzg4NTkwNjY5MjAxNDE4.DyoAaw.9ro3gilArW3vxBnLmvPFFacUBTc
-owner=433198762706599936
-prefix=r
-game= pretty is here..
-stayinchannel=true
-songinstatus=true 
