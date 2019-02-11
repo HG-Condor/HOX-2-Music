@@ -1,6 +1,6 @@
-token=NTQxMzgwNDAyNTY1MDg3MjUx.DzenTQ.Xjw51CHEEVD1XhW-s35-8aYMiDo
+token=NTQxMzgwNDAyNTY1MDg3MjUx.D0MFXg.EYf_w_Y-U6uUOZsE8_MiIHXPl3o
 owner=512625982751113216   
 prefix= 4 
-game= Condor♥
+game= infinity Family
 stayinchannel=true 
-songinstatus=
+songinstatus=true
