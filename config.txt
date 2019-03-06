@@ -1,6 +1,6 @@
-token=NTQxMzgwNDAyNTY1MDg3MjUx.D0MFXg.EYf_w_Y-U6uUOZsE8_MiIHXPl3o
+token=NTQxMzc5ODE4MjY5MzEwOTg3.D2FI4A.AsF9eGUMyH-Ey5PW7Gdfcv7oDZM
 owner=512625982751113216   
-prefix= 4 
-game= infinity Family
+prefix=2
+game=Type 2Help
 stayinchannel=true 
 songinstatus=true
