@@ -1,6 +1,6 @@
 token=NTQxMzc5ODE4MjY5MzEwOTg3.D2FI4A.AsF9eGUMyH-Ey5PW7Gdfcv7oDZM
 owner=512625982751113216   
-prefix=2
-game=Type 2Help
+prefix=z
+game=Dude?!
 stayinchannel=true 
 songinstatus=true
