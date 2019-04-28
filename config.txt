@@ -1,6 +1,6 @@
-token=NTQxMzc5ODE4MjY5MzEwOTg3.D2FI4A.AsF9eGUMyH-Ey5PW7Gdfcv7oDZM
-owner=512625982751113216   
-prefix=z
-game=Zoma|Musically♪
+token=NTcyMDAwNjU5ODgxMDY2NDk4.XMV7Yw.vEnc71QTY1d9TqKNsgpLcYBwyjA
+owner=378614040173346816   
+prefix=2
+game=Type 2Help
 stayinchannel=true 
 songinstatus=true
